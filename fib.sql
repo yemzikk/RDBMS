@@ -3,7 +3,6 @@ set serveroutput on;
 declare
 first number:=0;
 second number:=1;
-temp number;
  n number :=5;
  i number;
 begin

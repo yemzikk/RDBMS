@@ -1,0 +1,42 @@
+Data structure – Lab Questions
+
+1.	Sort a given list of strings  --Y
+2.	Reverse a string using pointers. --Y
+3.	Implement Pattern matching algorithm. --Y
+4.	Search an element in the 2-dimensional array --YN
+5.	Append 2 arrays --Y
+6.	Merge two sorted array into one sorted array. --N
+7.	Search an element in the array using iterative binary search. -- 
+8.	Search an element in the array using recursive binary search. --
+9.	Implement sparse matrix --
+10.	Implement polynomial using arrays --
+11.	Implement singly linked list of integers. --Y--
+12.	Delete a given element from a singly linked list --Y--
+13.	Sort a singly linked list. --Y--
+14.	Delete an element from a singly linked list --
+15.	Implement a doubly linked list of integers --Y--
+16.	Implement a circular linked list. --
+17.	Implement polynomial using linked list --
+18.	Addition of 2 polynomials --
+19.	Implement Stack using array --Y--
+20.	Implement Stack  using linked list --Y--
+21.	Infix  expression into its postfix expression --
+22.	Implement Queue using array --Y--
+23.	Implement Queue using linked list --Y
+24.	Implement a binary search tree of characters. --
+25.	Traverse a binary search tree non recursively in preorder --
+26.	Traverse a binary search tree non recursively in inorder --
+27.	Traverse a binary search tree non recursively in postorder --
+28.	Traverse a binary search tree recursively in preorder --
+29.	Traverse a binary search tree recursively inorder  --
+30.	Traverse a binary search tree recursively postorder. --
+31.	Delete an element from a binary search tree. --
+32.	Search an element in a binary search tree --
+33.	Implement linear sort --
+34.	Implement bubble sort --
+35.	Implement exchange sort --
+36.	Implement selection sort.  --
+37.	Implement insertion sort.  --
+38.	Implement quick sort.  --
+39.	Implement merge sort.  --
+40.	Implement heap sort --
