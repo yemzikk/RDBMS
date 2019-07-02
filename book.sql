@@ -1,4 +1,4 @@
-`create table zphonebook(name varchar(20),mobno number(10));
+ create table zphonebook(name varchar(20),mobno number(10));
 
 insert into zphonebook values('&name',&mobno);
 select * from zphonebook;
